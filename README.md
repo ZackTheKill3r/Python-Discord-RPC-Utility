@@ -1,2 +1,2 @@
-"# Python-Discord-RPC-Utility" 
-"# Python-Discord-RPC-Utility" 
+Made with <3 by ZackTheKill3r
+Using PySimpleGUI and pypresence
