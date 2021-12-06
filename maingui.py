@@ -2,9 +2,6 @@ import PySimpleGUI as sg
 from pypresence import Presence
 import settings as cfg
 import time
-import asyncio
-import _thread
-import threading
 
 def main(button01,button01URL,button02,button02URL,state,details,buttonsenabled,buttonsdisabled):
  client_id = cfg.client_id  # Enter your Application ID here.
