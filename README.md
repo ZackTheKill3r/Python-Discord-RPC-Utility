@@ -24,7 +24,7 @@ same.
 
 Just paste it in between the quotes **""** and you're good to go.
 
-If you need any help you can contact me on my email zackthekill3r@outlook.com or my Discord ZackTheKill3r#2574 .
+If you need any help you can contact me on my email zackthekill3r@outlook.com or my Discord Kill3rZack#2574 .
 
 Made with <3 by ZackTheKill3r!
 Using PySimpleGUI and pypresence.
