@@ -78,7 +78,7 @@ elif "es-es" in language:
     Okay="Definir RPC"
     Cancel="Cancelar"    
 
-#Falls back to English if the user's language isn't available
+#Falls back to English if the user's language isn't available.
 else:
     Name="Discord RPC Utility"
     Title="Title"
@@ -91,3 +91,4 @@ else:
     Bottom_Button_URL="Bottom Button URL"
     Okay="Start RPC"
     Cancel="Cancel"
+    
