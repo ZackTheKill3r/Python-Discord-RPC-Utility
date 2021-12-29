@@ -22,7 +22,6 @@ if language == None:
     Okay="Start RPC"
     Cancel="Cancel"
 
-
 #Português(Brasil)
 if "pt_BR" in language:
     Name="Discord RPC Utility"
