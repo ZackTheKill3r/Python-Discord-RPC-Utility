@@ -7,6 +7,22 @@ if cfg.ManualLanguage is True:
 else:
    language = (os.getenv('LANG'))
 
+#A Fallback in case getenv doesn't work it forces the GUI to use English(US) (This seems to only happen on Windows ;-;).
+if language == None: 
+    language = "en_US"
+    Name="Discord RPC Utility"
+    Title="Title"
+    Subtitle="Subtitle"
+    Description="Description"
+    Buttons="Buttons"
+    Top_Button_Title="Top Button Title"
+    Top_Button_URL="Top Button URL"
+    Bottom_Button_Title="Bottom Button Title"
+    Bottom_Button_URL="Bottom Button URL"
+    Okay="Start RPC"
+    Cancel="Cancel"
+
+
 #Português(Brasil)
 if "pt_BR" in language:
     Name="Discord RPC Utility"
